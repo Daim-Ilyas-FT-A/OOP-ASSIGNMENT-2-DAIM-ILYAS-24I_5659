@@ -1,6 +1,3 @@
-Okay, here is the same README **without hashtags, icons, headings, or decorative formatting**.
-Just clean, plain text:
-
 ---
 
 CS2012 – Object-Oriented Programming
